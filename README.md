@@ -4,8 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chosey98/)
 
-Computer Science 🎓 A passionate learner who's always willing to learn and work across technologies and domains 💡. Love to explore new technologies and leverage them to solve real-life problems ✨. Also love to guide and mentor beginner 👨🏻‍💻. I'm currently into Flutter Development ( Native, Crossplatform ).
-
 Joined Github **5** years ago.
 
 <h3 align="left">Languages and Tools:</h3>
