@@ -37,6 +37,13 @@ Joined Github **5** years ago.
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://loopback.io/" target="_blank" rel="noreferrer"> <img src="https://loopback.io/images/global/loopback-mark-frame-white.svg" alt="loopback" width="40" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> </a>
+<a href="https://create.t3.gg/" target="_blank" rel="noreferrer"> <img src="https://create.t3.gg/images/t3-dark.svg" alt="T3" width="40" height="40"/> </a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" width="40" height="40"/> </a>
+<a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="Nuxt" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="VueJS" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> </a>
+<a href="https://www.pixiebrix.com/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/627def74bc73d85070c65929/629f9b37f565170649ed5003_PB%20Full%20Logo.svg" alt="PixieBrix" width="40" height="40"/> </a>
+<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png" alt="UI Path" width="40" height="40"/> </a>
 </p>
 
 
