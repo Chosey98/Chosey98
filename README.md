@@ -41,7 +41,6 @@ Joined Github **5** years ago.
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" width="40" height="40"/> </a>
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" alt="Nuxt" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="VueJS" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> </a>
 <a href="https://www.pixiebrix.com/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/627def74bc73d85070c65929/629f9b37f565170649ed5003_PB%20Full%20Logo.svg" alt="PixieBrix" width="40" height="40"/> </a>
 <a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png" alt="UI Path" width="40" height="40"/> </a>
 </p>
